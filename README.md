@@ -1,4 +1,5 @@
-Nama Muhammad Nafis
-NPM 2410010629
-KELAS 4A REGULAR BJM
-MATKUL PEMROGRAMAN BERBASIS OBJEK
+# Muhammad Nafis
+
+- **NPM:** 2410010629
+- **Kelas:** 4A Reguler BJM
+- **Mata Kuliah:** Pemrograman Berbasis Objek
